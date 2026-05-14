@@ -1,0 +1,15 @@
+yosys_env/
+__pycache__/
+
+*.aux
+*.log
+*.out
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+
+.DS_Store
+Thumbs.db
+
+runs/
+*.ys
