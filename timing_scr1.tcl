@@ -1,0 +1,5 @@
+read_liberty <path_to_sky130_fd_sc_hd__ff_n40C_1v65.lib>
+read_verilog netlist_scr1.v
+link_design scr1_core_top
+read_sdc constraints_scr1.sdc
+report_checks

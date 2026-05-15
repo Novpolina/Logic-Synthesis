@@ -1,4 +1,4 @@
-read_liberty "your_path_to_sky130"
+read_liberty <path_to_sky130_fd_sc_hd__ff_n40C_1v65.lib>
 
 read_verilog netlist_out_pwm.v
 

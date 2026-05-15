@@ -1,6 +1,9 @@
 yosys_env/
 __pycache__/
 
+.DS_Store
+Thumbs.db
+
 *.aux
 *.log
 *.out
@@ -8,8 +11,9 @@ __pycache__/
 *.fdb_latexmk
 *.synctex.gz
 
-.DS_Store
-Thumbs.db
+sv2v-Linux/
 
-runs/
-*.ys
+scr1_flattened.v
+netlist_scr1.v
+netlist_out_pwm.v
+sv2v-Linux.zip
